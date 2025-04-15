@@ -8,5 +8,6 @@
 <body>
     <h1>Ini Halaman About</h1>
     <h2>Hello World</h2>
+    <p>Hello World</p>
 </body>
 </html>
